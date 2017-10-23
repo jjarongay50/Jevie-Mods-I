@@ -1,4 +1,6 @@
-# Jevie-Mods-I
-Please do not get any parts of this.
-You needed an permission.
-jjarongay50@gmail.com
+# ModPE Toolbox
+Open-source ModPE Script for Minecraft and Blocklauncher (Android).
+
+• Open-source (copy, paste codes)
+• Modification is okay.
+• Avoid redistribute this code.
